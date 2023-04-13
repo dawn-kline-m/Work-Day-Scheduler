@@ -5,6 +5,10 @@
 let workDayHour = 0
 
 let buttons = document.querySelectorAll(".saveBtn")
+let displayTimeEl = document.querySelector("#currentDay")
+
+displayTimeEl.textContent = dayjs().format('DD/MM/YYYY')
+console.log(dayjs().format('DD/MM/YYYY'))
 
 for (let button of buttons){
 
