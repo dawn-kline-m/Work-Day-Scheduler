@@ -23,14 +23,14 @@ When the user refreshes the page, the saved events persist.
 
 the following animation demonstrates the application functionality:
 
-![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
+![A user clicks on slots on the color-coded calendar and edits the events.](./images/05-third-party-apis-homework-demo.gif)
 
 The following image is a screenshot of the application:
 
-![This is a screenshot of the password generator.](./assets/Work-Day-Scheduler-Screenshot.png)
+![This is a screenshot of the password generator.](./images/Work-Day-Scheduler-Screenshot.png)
 
 URL: https://github.com/dawn-kline-m/Work-Day-Scheduler.git
 
 ## Project Status
 
-The project is nearing completion. _.
+The project is nearing completion.
